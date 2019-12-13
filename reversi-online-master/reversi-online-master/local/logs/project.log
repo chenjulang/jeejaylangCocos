@@ -1,0 +1,61 @@
+2019-12-13T13:03:06.205Z - normal: Load ~/.CocosCreator/settings.json
+2019-12-13T13:03:06.213Z - normal: checking language setting...
+2019-12-13T13:03:06.213Z - normal: Language: zh
+2019-12-13T13:03:09.935Z - success: protocol editor-framework registered
+2019-12-13T13:03:09.935Z - success: protocol app registered
+2019-12-13T13:03:09.935Z - success: protocol theme registered
+2019-12-13T13:03:09.936Z - success: protocol packages registered
+2019-12-13T13:03:09.936Z - success: protocol unpack registerred
+2019-12-13T13:03:09.936Z - success: protocol disable-commonjs registerred
+2019-12-13T13:03:10.174Z - normal: connected!
+2019-12-13T13:03:10.180Z - normal: Check project C:\git\12.13\reversi-online-master\reversi-online-master
+2019-12-13T13:03:10.184Z - normal: Initializing Cocos2d
+2019-12-13T13:03:13.847Z - normal: Initializing Asset Database
+2019-12-13T13:03:13.960Z - success: protocol uuid registerred
+2019-12-13T13:03:13.960Z - success: protocol db registerred
+2019-12-13T13:03:13.960Z - success: protocol thumbnail registerred
+2019-12-13T13:03:13.961Z - normal: Loading editor/builtin packages
+2019-12-13T13:03:14.016Z - success: anysdk loaded
+2019-12-13T13:03:14.267Z - success: assets loaded
+2019-12-13T13:03:14.273Z - success: builder loaded
+2019-12-13T13:03:14.282Z - success: cocos-analytics loaded
+2019-12-13T13:03:14.292Z - success: console loaded
+2019-12-13T13:03:14.419Z - success: fb-instant-games loaded
+2019-12-13T13:03:14.425Z - success: hierarchy loaded
+2019-12-13T13:03:14.433Z - success: inspector loaded
+2019-12-13T13:03:14.437Z - success: keystore loaded
+2019-12-13T13:03:14.445Z - success: node-library loaded
+2019-12-13T13:03:14.452Z - success: package-asset loaded
+2019-12-13T13:03:14.459Z - success: preferences loaded
+2019-12-13T13:03:14.465Z - success: project-exporter loaded
+2019-12-13T13:03:14.520Z - success: project-importer loaded
+2019-12-13T13:03:14.528Z - success: project-settings loaded
+2019-12-13T13:03:14.566Z - success: ui-kit loaded
+2019-12-13T13:03:14.606Z - success: ui-grid loaded
+2019-12-13T13:03:14.618Z - success: scene loaded
+2019-12-13T13:03:14.623Z - success: sprite-editor loaded
+2019-12-13T13:03:14.634Z - success: store loaded
+2019-12-13T13:03:14.650Z - success: timeline loaded
+2019-12-13T13:03:14.650Z - normal: Loading builtin packages
+2019-12-13T13:03:14.702Z - success: asset-db-debugger loaded
+2019-12-13T13:03:14.741Z - success: code-editor loaded
+2019-12-13T13:03:14.757Z - success: color-picker loaded
+2019-12-13T13:03:14.798Z - success: package-manager loaded
+2019-12-13T13:03:14.823Z - success: qqplay-adapter loaded
+2019-12-13T13:03:14.892Z - success: sdkbox loaded
+2019-12-13T13:03:14.925Z - success: tester loaded
+2019-12-13T13:03:14.949Z - success: ui-kit-preview-extra loaded
+2019-12-13T13:03:14.986Z - success: ui-kit-preview loaded
+2019-12-13T13:03:15.020Z - success: ui-tree loaded
+2019-12-13T13:03:15.037Z - success: weapp-adapter loaded
+2019-12-13T13:03:17.923Z - normal: Initializing project C:\git\12.13\reversi-online-master\reversi-online-master
+2019-12-13T13:03:17.948Z - normal: Loading packages
+2019-12-13T13:03:18.026Z - success: animation-clip-maker loaded
+2019-12-13T13:03:18.073Z - success: slot-big loaded
+2019-12-13T13:03:18.106Z - success: reverse loaded
+2019-12-13T13:03:18.128Z - failed: Failed to load panel "panel" from "slot-big", the panelID slot-big already exists
+2019-12-13T13:03:18.130Z - success: slot-big loaded
+2019-12-13T13:03:18.130Z - normal: Watching packages
+2019-12-13T13:03:18.770Z - normal: Run Application
+2019-12-13T13:03:20.079Z - success: preview server running at http://localhost:7456
+2019-12-13T13:03:35.141Z - normal: 1.9.2
