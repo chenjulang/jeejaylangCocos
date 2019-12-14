@@ -13,7 +13,7 @@ cc.Class({
         cc.log(io);
         // var url = '127.0.0.1:5050';
         // var url = '';
-        var url = 'http://jeejaylang13.applinzi.com';
+        var url = G.url;
 
         io().on('cocos linked', function (data) {
             console.log('接受到服务器cocos linked');

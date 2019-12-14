@@ -205,22 +205,22 @@
     "relativePath": "prefab\\webview.prefab"
   },
   "ff1d75e3-4687-47e2-9d52-79a3ccb9f80f": {
-    "asset": 1576242153006,
+    "asset": 1576242925660,
     "meta": 1575988958419,
     "relativePath": "scenes"
   },
   "8b567d21-7f5b-4d59-92a0-4d3f039aeefa": {
-    "asset": 1576242153361,
+    "asset": 1576242925766,
     "meta": 1575988958434,
     "relativePath": "scripts"
   },
   "afee38d3-2e9c-42d8-a2c4-e71abe3133a4": {
-    "asset": 1576242153585,
+    "asset": 1576242925845,
     "meta": 1575988958450,
     "relativePath": "textures"
   },
   "22100de8-2f10-42aa-81ce-abc30ec10816": {
-    "asset": 1576242152848,
+    "asset": 1576242925595,
     "meta": 1575988958403,
     "relativePath": "prefabs"
   },
@@ -260,7 +260,7 @@
     "relativePath": "prefabs\\Chess.prefab"
   },
   "32bdfad7-7022-4fef-ac22-8e791a511c7d": {
-    "asset": 1576242153429,
+    "asset": 1576242925785,
     "meta": 1575988958669,
     "relativePath": "scripts\\util"
   },
@@ -270,7 +270,7 @@
     "relativePath": "scripts\\cell\\Chess.js"
   },
   "2fb7f565-2380-485d-8d2b-1403fe1b14e9": {
-    "asset": 1576242152814,
+    "asset": 1576242925561,
     "meta": 1575988958388,
     "relativePath": "animations"
   },
@@ -290,12 +290,12 @@
     "relativePath": "textures\\bg_reversi.png"
   },
   "71dcdb38-6a40-4063-8d4e-0c448b0b7778": {
-    "asset": 1576242153356,
+    "asset": 1576242925762,
     "meta": 1575988958653,
     "relativePath": "scripts\\super"
   },
   "77e2886c-0eaf-4889-8d7a-371b9b5e28e3": {
-    "asset": 1576242153271,
+    "asset": 1576242925713,
     "meta": 1575988958622,
     "relativePath": "scripts\\cell"
   },
@@ -320,8 +320,8 @@
     "relativePath": "image\\default_btn_disabled.png"
   },
   "04fd0331-c1aa-47ad-8b1f-0804f61d14bc": {
-    "asset": 1575988958966,
-    "meta": 1575989039931,
+    "asset": 1576243303867,
+    "meta": 1576244139683,
     "relativePath": "scripts\\util\\Global.js"
   },
   "fd23b884-6310-4dec-8a16-ae585e450691": {
@@ -350,13 +350,13 @@
     "relativePath": "scripts\\socket.io.js"
   },
   "6737d3c1-5043-472d-acdd-28b9edfe55fc": {
-    "asset": 1576171619551,
-    "meta": 1576171627203,
+    "asset": 1576243329127,
+    "meta": 1576244139633,
     "relativePath": "scripts\\super\\MatchManager.js"
   },
   "dbed44d6-88ef-46f2-b38f-2e1c68c944b1": {
-    "asset": 1576171623947,
-    "meta": 1576171627209,
+    "asset": 1576243341377,
+    "meta": 1576244139638,
     "relativePath": "scripts\\super\\MenuManager.js"
   }
 }

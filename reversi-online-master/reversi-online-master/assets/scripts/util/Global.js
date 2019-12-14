@@ -6,4 +6,5 @@ window.G = {
     gameManager:null,
     chessManager:null,
     stand:null,
+    url:'',
 }
